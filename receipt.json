@@ -1,0 +1,19 @@
+{
+  "vendor": "Uniqlo Metrotown",
+  "date": "2024-05-18",
+  "items": [
+    {
+      "name": "W's full-zip hoodie",
+      "price": 49.9,
+      "quantity": 1,
+      "category": "clothing"
+    },
+    {
+      "name": "K's AIRism hoodie",
+      "price": 29.9,
+      "quantity": 1,
+      "category": "clothing"
+    }
+  ],
+  "payment_method": "credit"
+}
